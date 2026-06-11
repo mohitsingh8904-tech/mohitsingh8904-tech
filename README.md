@@ -5,7 +5,7 @@
 - 👀 I’m interested in data analysis, business intelligence, and data visualization.
 - 🌱 I’m currently working on technologies SQL, Python, Power BI, and machine learning techniques.
 - 💞️ I’m looking to collaborate on data-driven projects, dashboards, and predictive analytics.
-- 📫 How to reach me anshuchouhan058@gmail.com
+- 📫 How to reach me ms8904794@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning raw data into meaningful insights—it's like solving a puzzle! 🧩
 
@@ -15,7 +15,8 @@
 - 🌐 Django / Django REST Framework  
 - 🗄️ SQLite / MySQL  
 - 🎨 HTML, CSS, JavaScript  
-- 🧠 Git & GitHub  
+- 🧠 Git & GitHub
+- 📉 Data Analysis and Visualization
 ---
 ## Connect with me:
 
