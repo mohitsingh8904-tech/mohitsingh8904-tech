@@ -21,7 +21,7 @@
 ## Connect with me:
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/mohit-singh-chandawat-b7baa7371utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+   <a href="https://www.linkedin.com/in/mohit-singh-chandawat-b7baa7371 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;
